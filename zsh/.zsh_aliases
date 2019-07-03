@@ -1,0 +1,2 @@
+alias dev.ssh='~/Document/dmenu/ssh_runner.sh'
+alias vim='nvim'
